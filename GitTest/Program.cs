@@ -13,6 +13,10 @@ namespace GitTest
             Console.WriteLine("Tjabba Git");
 
             Console.ReadLine();
+
+            Console.WriteLine("Tjabba Git igen");
+
+            Console.ReadLine();
         }
     }
 }
