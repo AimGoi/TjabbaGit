@@ -12,7 +12,7 @@ namespace GitTest
         {
             Console.WriteLine("Tjabba Git");
 
-
+            Console.ReadLine();
         }
     }
 }
